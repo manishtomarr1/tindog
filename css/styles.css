@@ -171,8 +171,8 @@ padding:10px;
 .fot-pera{
   font-size: 3rem;
 }
-.dev{
-  margin-bottom:0;
+.dev {
+  margin-bottom: 0;
 }
 /*MEDIA QUERIES FOR MAKING SITE RESPONSIVE ACCORDING TO THE SCREEN CALLED CSS BREKPOINTS*/
 @media (max-width:992px){ /* means that when size is lesser then 992 then the code inside it is apply */
